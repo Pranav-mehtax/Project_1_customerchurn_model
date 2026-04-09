@@ -98,7 +98,8 @@ Models were evaluated using:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/customer-churn-prediction.git
+git clone https://github.com/Pranav-mehtax/Project_1_customerchurn_model
+.git
 
 # Navigate to project folder
 cd customer-churn-prediction
