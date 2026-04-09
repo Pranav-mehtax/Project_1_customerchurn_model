@@ -102,7 +102,8 @@ git clone https://github.com/Pranav-mehtax/Project_1_customerchurn_model
 .git
 
 # Navigate to project folder
-cd customer-churn-prediction
+cd Project_1_customerchurn_model
+
 
 # Install dependencies
 pip install -r requirements.txt
